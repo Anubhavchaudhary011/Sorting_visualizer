@@ -16,9 +16,7 @@ Sorting Visualizer is an interactive tool designed to help you visualize and und
 - Intuitive keyboard controls to interact with the visualizer.
 - Developed using **SDL2**, a cross-platform library for graphics rendering.
 
-## Demo
 
-![Sorting Visualizer Demo](#) <!-- Add a GIF or screenshot here -->
 
 ## Prerequisites
 
